@@ -2,6 +2,6 @@
   "private": true,
   "dependencies": {
     "primer-core": "6.7.0",
-    "primer-marketing": "6.2.0"
+    "primer-marketing": "7.0.0"
   }
 }
